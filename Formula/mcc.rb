@@ -1,4 +1,4 @@
-class Mc < Formula
+class Mcc < Formula
   desc "MC - SSH Connection Manager"
   homepage "https://github.com/zbum/mc"
   version "1.2.0"
